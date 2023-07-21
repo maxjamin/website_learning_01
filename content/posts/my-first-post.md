@@ -7,4 +7,4 @@ content: test
 ---
 
 
-This is my first post. Come back to see more content in the future. BEST
+This is my first post. Come back to see more content in the future. Thanks!
