@@ -7,4 +7,4 @@ draft: false
 This project is currently being worked on. I am using openGL along with c++ to create this project. Please checked back in the future to see more.
 
 
-![Example image](bluee.jpg)
+![Example image](/bluee.jpg)
